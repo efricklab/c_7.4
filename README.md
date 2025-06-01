@@ -53,8 +53,8 @@ This represents simple name-age records separated by commas.
 
 ### **Step 3: Create Your C Program**
 
-1. In the Explorer panel, create a new file named: `read_file.c`
-2. Paste the following code:
+1. In the Explorer panel, open the file named: `read_file.c`
+2. Verify the following code:
 
 ```c
 #include <stdio.h>
